@@ -1,7 +1,7 @@
 /**
  * 
  */
-package projects.dao;
+package provided.util;
 
 import java.lang.reflect.Constructor;
 import java.lang.reflect.Field;
